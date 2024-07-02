@@ -1,0 +1,76 @@
+
+}
+;SSECCUS_TIXE nruter    
+
+;)adilaSovihcra ,"n\'s%' ne odadraug y oditrevni odis ah ovihcra lE"(ftnirp    
+
+;)odinetnoc(eerf    
+airomem al rarebiL //    
+
+;)adilas(esolcf    
+adilas ed ovihcra le rarreC //    
+
+;)adilas ,o±Ãamat ,)rahc(foezis ,odinetnoc(etirwf    
+adilas ed ovihcra le ne aditrevni anedac al ribircsE //    
+
+}    
+;ERULIAF_TIXE nruter        
+;)odinetnoc(eerf        
+;)"adilas ed ovihcra le rirba la rorrE"(rorrep        
+{ )LLUN == adilas( fi    
+;)"w" ,adilaSovihcra(nepof = adilas* ELIF    
+arutircse odom ne adilas ed ovihcra le rirbA //    
+
+;)odinetnoc(anedaCritrevni    
+anedac al ritrevnI //    
+
+;)adartne(esolcf    
+adartne ed ovihcra le rarreC //    
+
+lanif la olun retc¡Ãrac le rida±ÃA //  ;'0\' = ]o±Ãamat[odinetnoc    
+;)adartne ,o±Ãamat ,)rahc(foezis ,odinetnoc(daerf    
+ovihcra led odinetnoc le reeL //    
+
+}    
+;ERULIAF_TIXE nruter        
+;)adartne(esolcf        
+;)"airomem rangisa la rorrE"(rorrep        
+{ )LLUN == odinetnoc( fi    
+;))rahc(foezis * )1 + o±Ãamat((collam)* rahc( = odinetnoc* rahc    
+ovihcra led odinetnoc le arap airomem ravreseR //    
+
+;)adartne(dniwer    
+;)adartne(lletf = o±Ãamat gnol    
+;)DNE_KEES ,0 ,adartne(keesf    
+o±Ãamat le renetbo arap ovihcra led lanif la oretnup le revoM //    
+
+}    
+;ERULIAF_TIXE nruter        
+;)"adartne ed ovihcra le rirba la rorrE"(rorrep        
+{ )LLUN == adartne( fi    
+;)"r" ,adartnEovihcra(nepof = adartne* ELIF    
+arutcel odom ne adartne ed ovihcra le rirbA //    
+
+;]2[vgra = adilaSovihcra* rahc    
+;]1[vgra = adartnEovihcra* rahc    
+sotnemugra sol edsed adilas y adartne ed sovihcra sol ed serbmoN //    
+
+}    
+;ERULIAF_TIXE nruter        
+;)]0[vgra ,"n\>adilas_ovihcra< >adartne_ovihcra< s% :osU" ,rredts(ftnirpf        
+{ )3 =! cgra( fi    
+{ )][vgra* rahc ,cgra tni(niam tni
+
+}
+}    
+;pmet = ]1 - i - dutignol[rts        
+;]1 - i - dutignol[rts = ]i[rts        
+;]i[rts = pmet rahc        
+{ )i++ ;2 / dutignol < i ;0 = i tni( rof    
+;)rts(nelrts = dutignol tni    
+{ )rts* rahc(anedaCritrevni diov
+anedac anu ritrevni arap n³ÃicnuF //
+
+>h.gnirts< edulcni#
+>h.bildts< edulcni#
+>h.oidts< edulcni#
